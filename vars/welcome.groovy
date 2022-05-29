@@ -1,3 +1,3 @@
 def call{}{
-    sh "echo my hello world"
+    sh "echo myown hello world"
 }
